@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Metas",
+  "description": "Uma aplicação web para gerenciar metas pessoais, permitindo criar, editar, visualizar e excluir objetivos de forma organizada e visualmente agradável.",
+  "requestFramePermissions": []
+}
